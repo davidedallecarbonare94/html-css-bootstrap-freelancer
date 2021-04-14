@@ -3,6 +3,14 @@
     border: 2px solid lightsalmon;
     height: 100px;
 }
+.container_sm{
+    width: 60%;
+}
+.container_xs{
+    width: 50%;
+    margin: 0 auto;
+}
+
 /* color palette */
 .bg_green{
     background-color: rgba(26, 188, 156, 1);
@@ -22,5 +30,15 @@
     width: 200px;
 }
 
-
 /* portfolio */
+#images img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#btn_down{
+    background-color: transparent;
+    border: 1px, solid, white;
+    border-radius: 5px;
+    padding: 5px 8px;
+}

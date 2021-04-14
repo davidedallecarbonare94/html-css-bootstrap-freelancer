@@ -1,0 +1,14 @@
+@media screen and (max-width: 576px) {
+    body{
+        max-width: 576px;
+    }
+    .container_sm {
+        width: 95%;
+    }
+    .container_xs{
+        width: 95%;
+    }
+    #images img{
+        padding: 0px 0px 15px 0px;
+    }
+}
