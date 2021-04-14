@@ -1,4 +1,26 @@
 .dbg [class*="col-"] {
     background-color: lightblue;
     border: 2px solid lightsalmon;
-    height: 100px;}
+    height: 100px;
+}
+/* color palette */
+.bg_green{
+    background-color: rgba(26, 188, 156, 1);
+    ;
+}
+.bg_darkblue{
+    background-color: rgba(44, 62, 80, 1);
+}
+.txt_darkblue{
+    color: rgba(44, 62, 80, 1);
+}
+.bg_blue{
+    background-color: rgba(58, 84, 109, 1);
+}
+/* jumbotron */
+#jumbotron img{
+    width: 200px;
+}
+
+
+/* portfolio */
