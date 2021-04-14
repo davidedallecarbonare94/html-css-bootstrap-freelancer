@@ -16,6 +16,9 @@
     background-color: rgba(26, 188, 156, 1);
     ;
 }
+.text_green{
+    color: rgba(26, 188, 156, 1);
+}
 .bg_darkblue{
     background-color: rgba(44, 62, 80, 1);
 }
@@ -41,4 +44,15 @@
     border: 1px, solid, white;
     border-radius: 5px;
     padding: 5px 8px;
+}
+.form-row .form-control{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+}
+.icons i{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 15px;
 }
