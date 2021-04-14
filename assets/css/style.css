@@ -56,3 +56,15 @@
     border-radius: 50%;
     padding: 15px;
 }
+.fa-star{
+    padding: 0px 10px;
+}
+.star-div{
+    
+}
+.starbar{
+    display: inline-block;
+    height: 3px;
+    width: 10%;
+    background-color: white;
+}
